@@ -44,7 +44,7 @@ By clicking on one of the loot bag icons, you will be able to view information a
 <p align="center"><img src="https://github.com/DeathAruban/Loot-Bag/blob/main/img/loot_bag_content.png" loading="eager" /></p>
 
 ## Loot Bag base 🌍
-| loot | Item | Amount |  Chance | Command | sound | effect | message | particles | effect |
+| Loot Bag | Item | Amount |  Chance | Command | sound | effect | message | particles | effect |
 | ------- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ |     
 | Common  | Cobblestone/Gravel | x8/x8 | 40% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
 | Common  | Dirt | x16 | 50% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
@@ -76,8 +76,26 @@ By clicking on one of the loot bag icons, you will be able to view information a
 | Rare | loot_bag_epic | x1/ | 1% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
 | Rare | iron_pickaxe/iron_shovel/iron_hoe/iron_axe/iron_sword | x1/x1/x1/x1/x1 | 3% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
 | Rare | nautilus_shell | x3 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
-| Epic  | :x:  | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
-| Legendary  | :x:  | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Epic | nautilus_shell | x3 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Epic | nautilus_shell | x3 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Epic | nautilus_shell | x3 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Epic | nautilus_shell | x3 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Epic | nautilus_shell | x3 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Epic | nautilus_shell | x3 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Epic | nautilus_shell | x3 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Epic | nautilus_shell | x3 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Epic | nautilus_shell | x3 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Epic | nautilus_shell | x3 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Legendary  | nautilus_shell | x3 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Legendary  | nautilus_shell | x3 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Legendary  | nautilus_shell | x3 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Legendary  | nautilus_shell | x3 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Legendary  | nautilus_shell | x3 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Legendary  | nautilus_shell | x3 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Legendary  | nautilus_shell | x3 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Legendary  | nautilus_shell | x3 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Legendary  | nautilus_shell | x3 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Legendary  | nautilus_shell | x3 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
 
 ```json5
 
