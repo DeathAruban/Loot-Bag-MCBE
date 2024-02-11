@@ -3,8 +3,8 @@
 		<img src="https://github.com/DeathAruban/Loot-Bag/blob/main/img/loot_bag_mcbe.png" loading="eager" />
 	</a><br>
 	<b>Loot Bag + for Minecraft Bedrock Edition 1.20.60 without using Experimental mode, use</b></p>
-                                    <b>module_name:@minecraft/server v1.8.0</b>
-                                   <b>module_name:@minecraft/server-ui v1.1.0</b>
+ <p align="center"><b>module_name:@minecraft/server v1.8.0</b></p>
+ <p align="center"><b>module_name:@minecraft/server-ui v1.1.0</b></p>
 <p align="center">
 	<a href="https://github.com/DeathAruban/Lore-Item-MCBE/releases/latest"><img alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/DeathAruban/Loot-Bag?label=release&sort=semver"></a>
 	<a href="https://github.com/DeathAruban/Lore-Item-MCBE/releases/latest"><img alt="GitHub release (latest by SemVer)" src="https://img.shields.io/github/downloads/DeathAruban/Loot-Bag/latest/total?sort=semver"></a>
