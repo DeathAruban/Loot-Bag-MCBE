@@ -77,6 +77,10 @@ in the drop you can insert:
 # Item
 item: ( in the item enter what type of object you want to give the player a block, an item whatever you want as in the example below but every time you add an item increase the value, here for example I give 2 items so value 1 item and value 2 item, if you add more you increase )
 Inside the item you can insert other values to customize the object when it is given, you can put
+- id:( here is the id of the item )
+- name: ( the name you want to give the item when it is given to the player )
+- amount ( the quantity of that item that must give the player 1 diamond or 3 diamonds )
+- lore ( the description then the lore you want to give to the item when it is given to the player )
 ```json5
  item:{
    1:{id:"minecraft:emerald",name:'base', amount:5},
@@ -92,15 +96,15 @@ sound:'block.lantern.hit'
 message: ( here insert a message that will be sent to the player, if you want more messages just do as in the example below and increase its value )
 ```json5
 message:{
- 1:'ciao come stai',
- 2:'spero bene'
+ 1:'He how are you',
+ 2:'I hope so'
  }
 ```
 # Command
 command: ( here instead enter the commands that will have to be performed on the player, to add others just increase the value )
 ```json5
 command:{
- 1:'title @s title ciao',
+ 1:'title @s title Hii',
  2:'title @s actionbar gg'
  }
 ```
@@ -111,6 +115,11 @@ particles:'minecraft:totem_particle',
 ```
 # Effect
 effect: ( instead, if you want to insert classic status effects, just do as in the example and if you want to insert others, just increase the value )
+On effects you can decide the time and power of the state using these parameters
+- id: ( the name of the effect you want to run )
+- time: ( how long the effect should last )
+- amplifer: ( when the effect needs to be enhanced )
+- particle: ( if you want the particles of the effect to be seen, if you set true they are not seen, if you set false they are seen )
 ```json5
  effect:{
    1:{id:'haste',time:10000,amplifer:3,particle:true},
