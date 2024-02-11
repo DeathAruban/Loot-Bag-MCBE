@@ -1,6 +1,6 @@
 <p align="center">
      <a href="https://github.com/DeathAruban/Lore-Item-MCBE">
-		<img src="https://github.com/DeathAruban/Loot-Bag/blob/main/img/logo_loot_bag.png" loading="eager" />
+		<img src="https://github.com/DeathAruban/Loot-Bag/blob/main/img/loot_bag_mcbe.png" loading="eager" />
 	</a><br>
 	<b>A highly customisable, Addon Loot Bag+ for Minecraft: Bedrock Edition written in Json and javascript MC (API 1.20.60)</b>
 </p>
