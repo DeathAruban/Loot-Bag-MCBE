@@ -37,13 +37,10 @@ This component enriches your gaming experience, allowing you to discover various
 
 # Loot Bag Book
 This item will allow you to preview the treasures you might find inside the loot bags.
-## Crafting item 
+Crafting item: 
 <p align="center"><img src="https://github.com/DeathAruban/Loot-Bag/blob/main/img/crafting_book.png" loading="eager" /></p>
-# Ui Book
-By clicking on one of the loot bag icons, you will be able to view information about the bag itself and its contents. You can navigate between pages using the arrows. Pages are automatically generated each time you add a new loot in the appropriate file of the configuration folder
-
+By clicking on one of the loot bag icons, you will be able to view information about the bag itself and its contents. You can navigate between pages using the arrows. Pages are automatically generated each time you add a new loot in the appropriate file of the configuration folder.
 <p align="center"><img src="https://github.com/DeathAruban/Loot-Bag/blob/main/img/loot_bag_page.png" loading="eager" /></p>
-
 <p align="center"><img src="https://github.com/DeathAruban/Loot-Bag/blob/main/img/loot_bag_content.png" loading="eager" /></p>
 
 
