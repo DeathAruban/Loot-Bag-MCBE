@@ -53,10 +53,29 @@ By clicking on one of the loot bag icons, you will be able to view information a
 | Common  | Apple/Bread | x5/x3 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
 | Common  | Pumpkin Seeds/Wheat Seeds | x3/x5 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
 | Common  | Oak Log/Birch Log | x8/x8 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Common  | Torch | x16 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
 | Common  | Stone Pickax/Stone Shovel | x1/x1 | 10% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
 | Common  | Crafting table/Furnace | x1/x1 | 20% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
-| Uncommon  | :x:  | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
-| Rare  | :x:  | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Uncommon  | stone/diorite | x16/x12 | 40% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Uncommon  | book | x8 | 20% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Uncommon  | oak_log/birch_log/spruce_log | x16/x16/16 | 40% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Uncommon  | iron_ingot | x1 | 10% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Uncommon  | cake | x3 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Uncommon  | sugar_cane/bamboo | x6/x4 | 40% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Uncommon  | lantern | x8 | 15% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Uncommon  | oak_log/birch_log | x8/x8 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Uncommon  | iron_pickaxe | x1 | 10% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Uncommon  | bed/chest | x1/x2 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Rare | andesite/diorite/granite | x16/x16/x16 | 40% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Rare | enchanting_table | 1 | 2% | +5XP / Title | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Rare | oak_log/birch_log/spruce_log/acacia_log/dark_oak_log | x16/x16/x16/x16/x16 | 40% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Rare | diamond | x2 | 5% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Rare | cooked_beef/cooked_chicken/cooked_mutton | x16/x16/x16 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Rare | glow_berries/sweet_berries/melon_seeds/beetroot_seeds | x7/x8/x3/x3 | 40% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Rare | sea_lantern | x4 | 15% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Rare | loot_bag_epic | x1/ | 1% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Rare | iron_pickaxe/iron_shovel/iron_hoe/iron_axe/iron_sword | x1/x1/x1/x1/x1 | 3% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Rare | nautilus_shell | x3 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
 | Epic  | :x:  | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
 | Legendary  | :x:  | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
 
