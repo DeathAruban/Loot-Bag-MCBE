@@ -43,6 +43,22 @@ By clicking on one of the loot bag icons, you will be able to view information a
 <p align="center"><img src="https://github.com/DeathAruban/Loot-Bag/blob/main/img/loot_bag_page.png" loading="eager" /></p>
 <p align="center"><img src="https://github.com/DeathAruban/Loot-Bag/blob/main/img/loot_bag_content.png" loading="eager" /></p>
 
+## Loot Bag base 🌍
+Common :
+- Cobblestone x8 / Gravel x8  Chance: 40%
+- Dirt x16  Chance: 50%
+- Oak Log x8 / Birch Log x8  Chance: 40%
+- Coal x3 / Raw Iron x2  Chance: 10%
+- Apple x5 / Bread x3  Chance: 30%
+- Pumpkin Seeds x3 / Wheat Seeds x5  Chance: 30%
+- Torch x16  Chance: 30%
+- Oak Log x8 / Birch Log x8  Chance: 30%
+- Stone Pickax x1 / Stone Shovel x1  Chance: 10%
+- Crafting_table x1 / Furnace x1  Chance: 20%
+Uncommon :
+Rare :
+Epic :
+Legendary :
 
 ```json5
 
