@@ -37,7 +37,6 @@ This component enriches your gaming experience, allowing you to discover various
 
 # Loot Bag Book
 This item will allow you to preview the treasures you might find inside the loot bags.
-<p align="center"><img src="https://github.com/DeathAruban/Loot-Bag/blob/main/img/loot_bag_book_360.png" loading="eager" /></p>
 # Crafting item 
 <p align="center"><img src="https://github.com/DeathAruban/Loot-Bag/blob/main/img/crafting_book.png" loading="eager" /></p>
 # Ui Book
