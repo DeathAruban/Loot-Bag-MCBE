@@ -44,7 +44,7 @@ By clicking on one of the loot bag icons, you will be able to view information a
 <p align="center"><img src="https://github.com/DeathAruban/Loot-Bag/blob/main/img/loot_bag_content.png" loading="eager" /></p>
 
 ## Loot Bag base 🌍
-| Loot Bag | Item | Amount |  Chance | Command | sound | effect | message | particles | effect |
+| value | Item | Amount |  Chance | Command | sound | effect | message | particles | effect |
 | ------- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ |     
 | Common  | Cobblestone/Gravel | x8/x8 | 40% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
 | Common  | Dirt | x16 | 50% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
@@ -57,7 +57,7 @@ By clicking on one of the loot bag icons, you will be able to view information a
 | Common  | Stone Pickax/Stone Shovel | x1/x1 | 10% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
 | Common  | Crafting table/Furnace | x1/x1 | 20% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
 
-| Loot Bag | Item | Amount |  Chance | Command | sound | effect | message | particles | effect |
+| value | Item | Amount |  Chance | Command | sound | effect | message | particles | effect |
 | ------- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ |    
 | Uncommon  | stone/diorite | x16/x12 | 40% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
 | Uncommon  | book | x8 | 20% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
@@ -83,31 +83,32 @@ By clicking on one of the loot bag icons, you will be able to view information a
 | Rare | iron_pickaxe/iron_shovel/iron_hoe/iron_axe/iron_sword | x1/x1/x1/x1/x1 | 3% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
 | Rare | nautilus_shell | x3 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
 
-| Loot Bag | Item | Amount |  Chance | Command | sound | effect | message | particles | effect |
+| value | Item | Amount |  Chance | Command | sound | effect | message | particles | effect |
 | ------- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ |    
-| Epic | obsidian/leather/ender_pearl | x16/x16/x4 | 40% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
-| Epic | golden_apple/gold_ingot/gold_nugget | x2/x32/x16 | 20% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
-| Epic | :x: | :x: | 2% | +60XP | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
-| Epic | diamond/diamond_block | x10/x1 | 5% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
-| Epic | heart_of_the_sea | x1 | 20% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
-| Epic | cooked_beef/cooked_chicken/cooked_mutton/cooked_cod/cooked_rabbit/cooked_salmon | x16/x16/x16/x16/x16/x16 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
-| Epic | potion/blaze_rod | x16/x3 | 16% | 'potion x1 13', 'potion x1 5', 'potion x1 9' | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
-| Epic | sea_lantern/glowstone | x16/x16 | 15% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
-| Epic | loot_bag_legendary/loot_bag_common/loot_bag_rare | x1/x16/x3 | 1% | :x: | 'Random.Totem' | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
-| Epic | diamond_pickaxe/diamond_axe/diamond_sword | x1/x1/x1 | 3% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| 1 | obsidian/leather/ender_pearl | x16/x16/x4 | 40% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| 2 | golden_apple/gold_ingot/gold_nugget | x2/x32/x16 | 20% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| 3 | :x: | :x: | 2% | +60XP | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| 4 | diamond/diamond_block | x10/x1 | 5% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| 4 | heart_of_the_sea | x1 | 20% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| 5 | cooked_beef/cooked_chicken/cooked_mutton/cooked_cod/cooked_rabbit/cooked_salmon | x16/x16/x16/x16/x16/x16 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| 5 | potion/blaze_rod | x16/x3 | 16% | 'potion x1 13', 'potion x1 5', 'potion x1 9' | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| 6 | sea_lantern/glowstone | x16/x16 | 15% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| 7 | loot_bag_legendary/loot_bag_common/loot_bag_rare | x1/x16/x3 | 1% | :x: | 'Random.Totem' | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| 8 | diamond_pickaxe/diamond_axe/diamond_sword | x1/x1/x1 | 3% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
 
-| Loot Bag | Item | Amount |  Chance | Command | sound | effect | message | particles | effect |
+#Loot Legenday Bag
+| value | Item | Amount |  Chance | Command | sound | effect | message | particles | effect |
 | ------- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ |    
-| Legendary | beacon | x1 | 3% | :x: | :x: | haste, strength | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
-| Legendary | experience_bottle | x32 | 2% | '+120XP' | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
-| Legendary | enchanted_golden_apple/gold_ingot/gold_nugget/gold_block | x6/x64/x64/x15 | 20% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
-| Legendary | netherite_ingot | x10 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
-| Legendary | elytra/nether_star/emerald | x1/x1/x16 | 25% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
-| Legendary | iron_ingot/gold_ingot/diamond/amethyst_shard/copper_block | x64/x64/x16/x32/x64 | 16% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
-| Legendary | shulker_shell/orange_shulker_box/black_shulker_box/pink_shulker_box/light_blue_shulker_box | x10/x1/x1/x1/x1 | 15% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
-| Legendary | loot_bag_legendary/loot_bag_common/loot_bag_rare/loot_bag_uncommon/loot_bag_epic | x3/x16/x6/x16/x4 | 1% | :x: | 'Random.Totem' | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
-| Legendary | netherite_pickaxe/netherite_shovel/netherite_hoe/netherite_axe/netherite_sword | x1/x1/x1/x1/x1 | 3% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
-| Legendary | netherite_upgrade_smithing_template/spire_armor_trim_smithing_template/wild_armor_trim_smithing_template/dune_armor_trim_smithing_template | x1/x1/x1/x1 | 20% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| 1 | beacon | x1 | 3% | :x: | :x: | haste, strength | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| 2 | experience_bottle | x32 | 2% | '+120XP' | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| 3 | enchanted_golden_apple/gold_ingot/gold_nugget/gold_block | x6/x64/x64/x15 | 20% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| 4 | netherite_ingot | x10 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| 5 | elytra/nether_star/emerald | x1/x1/x16 | 25% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| 6 | iron_ingot/gold_ingot/diamond/amethyst_shard/copper_block | x64/x64/x16/x32/x64 | 16% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| 7 | shulker_shell/orange_shulker_box/black_shulker_box/pink_shulker_box/light_blue_shulker_box | x10/x1/x1/x1/x1 | 15% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| 8 | loot_bag_legendary/loot_bag_common/loot_bag_rare/loot_bag_uncommon/loot_bag_epic | x3/x16/x6/x16/x4 | 1% | :x: | 'Random.Totem' | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| 9 | netherite_pickaxe/netherite_shovel/netherite_hoe/netherite_axe/netherite_sword | x1/x1/x1/x1/x1 | 3% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| 10 | netherite_upgrade_smithing_template/spire_armor_trim_smithing_template/wild_armor_trim_smithing_template/dune_armor_trim_smithing_template | x1/x1/x1/x1 | 20% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
 
 ```json5
 
