@@ -35,5 +35,5 @@ on how to use and a video to better understand the use comes out tomorrow
 ## Through the give command or in the creative you can find 6 item  Loot Bag ( common, uncommon, rare, epic, legendary ), one Loot Bag Book
 
 <p align="center">
- <img src="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/loot bag_item.png" loading="eager" />
+ <img src="https://github.com/DeathAruban/Lore-Item-MCBE/blob/main/img/loot_bag_item.png" loading="eager" />
 </p>
