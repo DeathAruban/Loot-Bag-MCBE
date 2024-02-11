@@ -20,3 +20,14 @@ on how to use and a video to better understand the use comes out tomorrow
 - English (United Kingdom)
 - if you find errors or your language is missing, send me a message, if you provide me with a correct translation I will add credits for support 🤝
 
+# Check if the version or where you are using the addon is compatible
+
+| Supported | World | Realms |Server Dedicated | Custom servers | Windows | Mobile | PS4/PS5 | Xbox | Nintendo Switch |
+| ------- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ |
+| 1.20.50   |:white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| 1.19.x   | :x:  | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | 
+| 1.18.x   | :x:  | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | 
+| 1.17.x   | :x:  | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |  
+| 1.16.x   | :x:  | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | 
+| < 1.15.x | :x:  | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+
