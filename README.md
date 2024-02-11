@@ -50,6 +50,65 @@ going into the addon folder obviously in your world you have to go to:
 scripts/config/loot
 ```
 here you will find 5 js files in which you can customize your loot, the files are divided by rarity of the bags.
+to add an extra loot or modify the existing one it is simple, let's take an example:
 ```json5
-scripts/config/loot
+        1:{
+            chance:3,
+            name:'Beacon Time',
+            description:'do you want powers?',
+            drop:{
+                item:{
+                    1:{id:"minecraft:beacon", amount:1},
+                },
+                effect:{
+                    1:{id:'haste',time:10000,amplifer:3,particle:true},
+                    2:{id:'strength',time:10000,amplifer:3,particle:true},
+                }
+            }
+        },
 ```
+its value in this case is 1, already in the config you will find up to 10, to add others just do in numerical order so 11 12 13 and so on
+- chance: ( the probability of that loot coming out )
+- name : ( name of the loot that will appear in the book )
+- description : ( description of the loot that will appear in the book )
+- drop : ( here is everything you can do if this loot comes out )
+
+in the drop you can insert:
+- item: ( in the item enter what type of object you want to give the player a block, an item whatever you want as in the example below but every time you add an item increase the value, here for example I give 2 items so value 1 item and value 2 item, if you add more you increase )
+```json5
+ item:{
+   1:{id:"minecraft:emerald",name:'base', amount:5},
+   2:{id:"minecraft:emerald_block",name:'Good Emerald',lore:'cool block emerald',amount:1},
+ }
+```
+- sound: ( enter this value if you want it to play a sound )
+```json5
+sound:'block.lantern.hit'
+```  
+- message: ( here insert a message that will be sent to the player, if you want more messages just do as in the example below and increase its value )
+```json5
+message:{
+ 1:'ciao come stai',
+ 2:'spero bene'
+ }
+```
+- command: ( here instead enter the commands that will have to be performed on the player, to add others just increase the value )
+```json5
+command:{
+ 1:'title @s title ciao',
+ 2:'title @s actionbar gg'
+ }
+```
+- particles: ( if you want it to make particles on the player enter the name of the particle as in the example )
+```json5
+particles:'minecraft:totem_particle',
+```
+- effect: ( instead, if you want to insert classic status effects, just do as in the example and if you want to insert others, just increase the value )
+```json5
+ effect:{
+   1:{id:'haste',time:10000,amplifer:3,particle:true},
+   2:{id:'strength',time:10000,amplifer:3,particle:true},
+ }
+```
+-
+
