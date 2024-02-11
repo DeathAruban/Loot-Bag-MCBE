@@ -126,5 +126,40 @@ On effects you can decide the time and power of the state using these parameters
    2:{id:'strength',time:10000,amplifer:3,particle:true},
  }
 ```
+obviously you can decide what you want to insert in the drop, like the same thing for the item to give the name and lore, these are data that you can also not insert, they simply serve to give greater customization.
+
+#Enity Drop
+To find loot bags they are obtained by killing mobs, obviously based on the difficulty the drop reward increases, but if you want to modify or add entities just go to:
+```json5
+scripts/config/entity
+```
+Once you will already find the basic Minecraft entities, to add external entities just enter their ID as in the example below.
+As per the item, you must each time increase the value which here in the example is 1, but already in the file you will find 73, because all the Minecraft Bedrock entities are present.
+This does not affect the classic loot drop of mobs, but only adds.
+```json5
+    1: {
+        id: 'da:floating_text',
+        drop: true,
+        loot: { 
+            0: {id: 'da:loot_bag_common', min: 1, max: 2, chance: 25},
+            1: {id: 'da:loot_bag_uncommon', min: 1, max: 2, chance: 15},
+            2: {id: 'da:loot_bag_rare', min: 1, max: 1, chance: 10},
+            3: {id: 'da:loot_bag_epic', min: 1, max: 1, chance: 5},
+            4: {id: 'da:loot_bag_legendary', min: 1, max: 1, chance: 1}
+        }
+    },
+```
+- Id: ( name of the entity that must release the loot after death )
+- drop : ( if you set true when that entity dies it will give loot, if you set false that entity will not drop loot )
+- loot : ( item that must drop after deat )
+inside the loot you have to put in order all the items you want to give, which in my case are 5 different Loot Bags
+```json5
+0: {id: 'da:loot_bag_common', min: 1, max: 2, chance: 25},
+```
+what you have to put in the drop inside the values
+- id: ( name of the item it must give )
+- min: ( minimum quantity you must give of that item )
+- max :  ( maximum quantity you can give of that item )
+- chance : ( probability that from that item )
 
 
