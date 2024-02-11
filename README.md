@@ -14,7 +14,7 @@
 </p>
 
 # Description
-on how to use and a video to better understand the use comes out tomorrow
+This component enriches your gaming experience, allowing you to discover various treasures by killing entities. Based on the difficulty of the entity, the reward will be higher. In addition, the following addon offers maximum customization. For more information, see the section below.
 
 ## Language support 🌍
 - English (United States)
@@ -26,11 +26,7 @@ on how to use and a video to better understand the use comes out tomorrow
 | Supported | World | Realms |Server Dedicated | Custom servers | Windows | Mobile | PS4/PS5 | Xbox | Nintendo Switch |
 | ------- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ |
 | 1.20.60   |:white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| 1.19.x   | :x:  | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | 
-| 1.18.x   | :x:  | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | 
-| 1.17.x   | :x:  | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |  
-| 1.16.x   | :x:  | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | 
-| < 1.15.x | :x:  | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| previous versions   | :x:  | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | 
 
 # How does it work
 ## Through the give command or in the creative you can find 6 item  Loot Bag ( common, uncommon, rare, epic, legendary ), one Loot Bag Book
@@ -38,7 +34,17 @@ on how to use and a video to better understand the use comes out tomorrow
 <p align="center">
  <img src="https://github.com/DeathAruban/Loot-Bag/blob/main/img/loot_bag_item.png" loading="eager" />
 </p>
-## Config:
+
+## Loot Bag Book
+This item will allow you to preview the treasures you might find inside the loot bags.
+<p align="center"><img src="https://github.com/DeathAruban/Loot-Bag/blob/main/img/loot_bag_book_360.png" loading="eager" /></p>
+## Crafting item 
+<p align="center"><img src="https://github.com/DeathAruban/Loot-Bag/blob/main/img/crafting_book.png" loading="eager" /></p>
+## Ui Book
+By clicking on one of the loot bag icons, you will be able to view information about the bag itself and its contents. You can navigate between pages using the arrows. Pages are automatically generated each time you add a new loot in the appropriate file of the configuration folder
+<p align="center"><img src="https://github.com/DeathAruban/Loot-Bag/blob/main/img/loot_bag_page.png" loading="eager" /></p>
+<p align="center"><img src="https://github.com/DeathAruban/Loot-Bag/blob/main/img/loot_bag_content.png loading="eager" /></p>
+
 
 ```json5
 
