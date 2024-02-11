@@ -60,6 +60,11 @@ Rare :
 Epic :
 Legendary :
 
+| loot | Common | Uncommon | Rare | Epic | Legendary |
+| ------- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | 
+| 1.20.60   |:white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: |
+| previous versions   | :x:  | :x: | :x: | :x: | :x: | :x: |
+
 ```json5
 
 ```
