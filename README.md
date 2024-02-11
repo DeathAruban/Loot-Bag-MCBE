@@ -44,25 +44,17 @@ By clicking on one of the loot bag icons, you will be able to view information a
 <p align="center"><img src="https://github.com/DeathAruban/Loot-Bag/blob/main/img/loot_bag_content.png" loading="eager" /></p>
 
 ## Loot Bag base 🌍
-Common :
-- Cobblestone x8 / Gravel x8  Chance: 40%
-- Dirt x16  Chance: 50%
-- Oak Log x8 / Birch Log x8  Chance: 40%
-- Coal x3 / Raw Iron x2  Chance: 10%
-- Apple x5 / Bread x3  Chance: 30%
-- Pumpkin Seeds x3 / Wheat Seeds x5  Chance: 30%
-- Torch x16  Chance: 30%
-- Oak Log x8 / Birch Log x8  Chance: 30%
-- Stone Pickax x1 / Stone Shovel x1  Chance: 10%
-- Crafting_table x1 / Furnace x1  Chance: 20%
-Uncommon :
-Rare :
-Epic :
-Legendary :
-
-| loot | Item | Amount | Rare | Command | sound | effect | message | particles | effect |
+| loot | Item | Amount |  Chance | Command | sound | effect | message | particles | effect |
 | ------- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ |     
-| Common  |:white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: | :x: | :white_check_mark: | :x: | :white_check_mark: | :x: | :white_check_mark: | :x: | :white_check_mark: |
+| Common  | Cobblestone/Gravel | x8/x8 | 40% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Common  | Dirt | x16 | 50% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Common  | Oak Log/Birch Log | x8/x8 | 40% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Common  | Coal/Raw Iron | x3/x2 | 10% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Common  | Apple/Bread | x5/x3 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Common  | Pumpkin Seeds/Wheat Seeds | x3/x5 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Common  | Oak Log/Birch Log | x8/x8 | 30% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Common  | Stone Pickax/Stone Shovel | x1/x1 | 10% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Common  | Crafting table/Furnace | x1/x1 | 20% | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
 | Uncommon  | :x:  | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
 | Rare  | :x:  | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
 | Epic  | :x:  | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
