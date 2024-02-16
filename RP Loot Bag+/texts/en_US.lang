@@ -1,0 +1,9 @@
+pack.name=§l§6Loot Bags+§r §f[§bRP§f]
+pack.description=Do you want to have prizes or reward your players this addon is for you here you can objects of different rarities, have fun!
+
+item.da:loot_bag_common=Loot Bag §f[ §7Common §f]
+item.da:loot_bag_uncommon=Loot Bag §f[ §aUncommon §f]
+item.da:loot_bag_rare=Loot Bag §f[ §bRare §f]
+item.da:loot_bag_epic=Loot Bag §f[ §dEpic §f]
+item.da:loot_bag_legendary=Loot Bag §f[ §6Legendary §f]
+item.da:loot_bag_book=Loot Bag Book
