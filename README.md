@@ -177,7 +177,7 @@ state: false
 ## 🖥️ Computer
 
 📁.mcaddon version
-- Download the lore_item.mcaddon version
+- Download the loot_bag.mcaddon version
 - click on it to open and it will automatically insert it into the game
 - 
 📦.zip version
@@ -190,7 +190,7 @@ state: false
 ## 📱 Mobile
 
 📁.mcaddon version
-- Download the lore_item.mcaddon version
+- Download the loot_bag.mcaddon version
 - click on it to open and it will automatically insert it into the game
 
 📦.zip version
@@ -218,7 +218,7 @@ state: false
 
 ## For more info visit my discord or watch the video guide on my channel
 - ✉️ Discord Link : [Click](https://discord.gg/NKy9A9RAe8)
-- 💻 Youtube Link :[Click](https://www.youtube.com/watch?v=hUQVg2-KCas&t=53s)
+- 💻 Youtube Link :[Click](https://www.youtube.com/watch?v=cT3YZJbOkBw&ab_channel=Death_Aruban%E2%84%A2)
 
 ## Thank you for choosing this component and to appreciate how it works 😄
 
