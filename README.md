@@ -2,7 +2,7 @@
      <a href="https://github.com/DeathAruban/Loot-Bag">
 		<img src="https://github.com/DeathAruban/Loot-Bag/blob/main/img/loot_bag_mcbe.png" loading="eager" />
 	</a><br>
-	<b>Loot Bag + for Minecraft Bedrock Edition 1.20.71 without using Experimental mode, use</b></p>
+	<b>Loot Bag + for Minecraft Bedrock Edition 1.21.0 without using Experimental mode, use</b></p>
  <p align="center"><b>module_name:@minecraft/server v1.8.0</b></p>
  <p align="center"><b>module_name:@minecraft/server-ui v1.1.0</b></p>
 <p align="center">
@@ -28,6 +28,9 @@ This component enriches your gaming experience, allowing you to discover various
 
 | Supported | World | Realms |Server Dedicated | Custom servers | Windows | Mobile | PS4/PS5 | Xbox | Nintendo Switch |
 | ------- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ |
+| 1.21.0   |:white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| 1.20.81   |:white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| 1.20.71   |:white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | 1.20.60   |:white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | previous versions   | :x:  | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | 
 
