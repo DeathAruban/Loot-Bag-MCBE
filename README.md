@@ -2,7 +2,7 @@
      <a href="https://github.com/DeathAruban/Loot-Bag">
 		<img src="https://github.com/DeathAruban/Loot-Bag/blob/main/img/loot_bag_mcbe.png" loading="eager" />
 	</a><br>
-	<b>Loot Bag + for Minecraft Bedrock Edition 1.21.0 without using Experimental mode, use</b></p>
+	<b>Loot Bag + for Minecraft Bedrock Edition 1.21.50  without using Experimental mode, use</b></p>
  <p align="center"><b>module_name:@minecraft/server v1.8.0</b></p>
  <p align="center"><b>module_name:@minecraft/server-ui v1.1.0</b></p>
 <p align="center">
